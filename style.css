@@ -1,0 +1,38 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+section{
+    height: 500px;
+}
+.good{
+    width: 40%;
+    margin: 5%;
+    float: left;
+}
+.bad{
+    padding-top: 50px;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 8px 30px;
+    background-color: rgb(192, 90, 31);
+    color: cornsilk;
+}
+.good img{
+    width: 100%;
+}
+.name{
+    font-weight: 900;
+    font-size: 50px;
+}
+#color{
+    color: rgb(184, 75, 11);
+}
+#cool{
+    color: darkblue;
+}
+h3{
+    font-size: 25px;
+    color: darkblue;
+}

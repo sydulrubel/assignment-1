@@ -2,7 +2,13 @@ body{
     font-family: 'Fjalla One', sans-serif;
 }
 section{
-    height: 500px;
+    height: 650px;
+}
+#dev{
+    background-color: honeydew;
+}
+#pro{
+    background-color: khaki;
 }
 .good{
     width: 40%;
@@ -21,6 +27,8 @@ section{
 }
 .good img{
     width: 100%;
+    margin: 0;
+    padding-top: 0px;
 }
 .name{
     font-weight: 900;
@@ -35,4 +43,69 @@ section{
 h3{
     font-size: 25px;
     color: darkblue;
+}
+h2{
+    font-size: 25px;
+    color: darkslateblue;
+    font-weight: 700;
+}
+#kit{
+    color: firebrick;
+}
+#cat{
+    color: orange;
+}
+#dog{
+    color: royalblue;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.new{
+    width: 29%;
+    margin: 2%;
+    float: left;
+    box-shadow: 10px 10px 5px rgb(49, 8, 88);
+}
+.new img{
+    width: 100%;
+    
+}
+#back{
+    background-color: gray;
+}
+.hot{
+    font-size: 20px;
+    color: sandybrown;
+    font-weight: 400;
+}
+h5{
+    font-size: 20px;
+    color: rgb(99, 64, 19);
+    text-align: center;
+}
+h6{
+    font-size: 30px;
+    color: rgb(46, 51, 51);
+    font-weight: 500;
+    text-align: center;
+}
+#nice{
+    margin: 0;
+    padding-top: 100px;
+    padding-left: 30px;
+    
+}
+#icon{
+    margin: 0;
+    padding-left: 600px;
+    padding-bottom: 10px;
+}
+#icon img{
+    height: 30px;
+    width: 30px;
+    margin: 0;
+    padding-left: 15px;
+    padding-bottom: 50px;
+    
 }

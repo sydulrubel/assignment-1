@@ -1,8 +1,15 @@
 body{
     font-family: 'Fjalla One', sans-serif;
 }
+#nav a{
+    color: black;
+    float: right;
+    text-decoration: none;
+    padding: 15px 10px;
+    font-size: 20px;
+}
 section{
-    height: 650px;
+    height: 750px;
 }
 #dev{
     background-color: honeydew;
@@ -55,7 +62,7 @@ h2{
 #cat{
     color: orange;
 }
-#dog{
+.dog{
     color: royalblue;
     font-size: 50px;
     text-align: center;
@@ -79,12 +86,13 @@ h2{
     color: sandybrown;
     font-weight: 400;
 }
-h5{
+#stay{
+
     font-size: 20px;
     color: rgb(99, 64, 19);
     text-align: center;
 }
-h6{
+#hello{
     font-size: 30px;
     color: rgb(46, 51, 51);
     font-weight: 500;
@@ -106,6 +114,11 @@ h6{
     width: 30px;
     margin: 0;
     padding-left: 15px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
     
+}
+footer{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 10px;
 }
